@@ -69,6 +69,7 @@ public class FODAnimation extends ImageView {
         "fod_rog_fusion_recognizing_anim",
         "fod_rog_pulsar_recognizing_anim",
         "fod_rog_supernova_recognizing_anim",
+        "fod_created_lotr_recognizing_anim",
     };
 
     private final String FOD_ANIMATIONS_PACKAGE = "com.syberia.fod.animations";
