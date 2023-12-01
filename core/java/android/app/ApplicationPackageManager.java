@@ -96,6 +96,7 @@ import android.util.ArraySet;
 import android.util.DebugUtils;
 import android.util.LauncherIcons;
 import android.util.Log;
+import java.util.Arrays;
 import android.view.Display;
 
 import com.android.internal.annotations.GuardedBy;
