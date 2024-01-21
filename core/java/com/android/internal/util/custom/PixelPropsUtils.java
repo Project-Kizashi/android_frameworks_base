@@ -123,7 +123,7 @@ public class PixelPropsUtils {
         propsToChange.put("HARDWARE", "husky");
         propsToChange.put("MODEL", "Pixel 8 Pro");
         propsToChange.put("ID", "UQ1A.231205.015");
-        propsToChange.put("FINGERPRINT", "google/husky/husky:14/UQ1A.231205.015/11084887:user/release-keys");
+        propsToChange.put("FINGERPRINT", "google/husky/husky:14/UQ1A.240105.004/11206848:user/release-keys");
         propsToChangePixelXL = new HashMap<>();
         propsToChangePixelXL.put("BRAND", "google");
         propsToChangePixelXL.put("MANUFACTURER", "Google");
