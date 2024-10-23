@@ -183,12 +183,12 @@ public class PixelPropsUtils {
         propsToChangePixel8Pro = new HashMap<>();
         propsToChangePixel8Pro.put("BRAND", "google");
         propsToChangePixel8Pro.put("MANUFACTURER", "Google");
-        propsToChangePixel8Pro.put("DEVICE", "husky");
-        propsToChangePixel8Pro.put("PRODUCT", "husky");
-        propsToChangePixel8Pro.put("HARDWARE", "husky");
-        propsToChangePixel8Pro.put("MODEL", "Pixel 8 Pro");
-        propsToChangePixel8Pro.put("ID", "UQ1A.240205.004");
-        propsToChangePixel8Pro.put("FINGERPRINT", "google/husky/husky:14/UQ1A.240205.004/11269751:user/release-keys");
+        propsToChangePixel8Pro.put("DEVICE", "komodo");
+        propsToChangePixel8Pro.put("PRODUCT", "komodo");
+        propsToChangePixel8Pro.put("HARDWARE", "komodo");
+        propsToChangePixel8Pro.put("MODEL", "Pixel 9 Pro XL");
+        propsToChangePixel8Pro.put("ID", "AD1A.240905.004");
+        propsToChangePixel8Pro.put("FINGERPRINT", "google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys");
         propsToChangePixel5a = new HashMap<>();
         propsToChangePixel5a.put("BRAND", "google");
         propsToChangePixel5a.put("MANUFACTURER", "Google");
